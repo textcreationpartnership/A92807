@@ -1,0 +1,1187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second continuation of the compleat catalogue of stitch'd books and single sheets printed since the first discovery of the Popish Plot (September 1678.) From the 24th of June to Michaelmas term 1680.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92807</idno>
+            <idno type="STC">Wing S2269</idno>
+            <idno type="STC">ESTC R233330</idno>
+            <idno type="EEBO-CITATION">43078134</idno>
+            <idno type="OCLC">ocm 43078134</idno>
+            <idno type="VID">151702</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151702)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2272:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second continuation of the compleat catalogue of stitch'd books and single sheets printed since the first discovery of the Popish Plot (September 1678.) From the 24th of June to Michaelmas term 1680.</title>
+               </titleStmt>
+               <extent>[2], 3-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. and are to be sold at the Green Dragon in St. Pauls Church Yard, where is to be had a compleat catalogue of all printed since the Plot,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Continuation is intended to be publish'd every Term".</note>
+                  <note>Reproduction of original in: Christ Church Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Bibliography.</term>
+               <term>Catalogs, Booksellers' --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151702:1" rendition="simple:additions"/>
+            <p>A SECOND. CONTINUATION OF THE COMPLEAT CATALOGUE OF Stitch'd BOOKS and Single SHEETS Printed ſince the Firſt Diſcovery of The Popiſh Plot, (<hi>September</hi> 1678.) From the 24th of JUNE to Michaelmas Term 1680.</p>
+            <p>The Continuation is intended to be publiſh'd every Term.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. R.</hi> and are to be ſold at the <hi>Green Dragon</hi> in <hi>St. Pauls</hi> Church Yard, where is to be had a Compleat Catalogue of all Printed ſince the Plot. 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151702:2"/>
+            <pb n="3" facs="tcp:151702:2"/>
+            <head>A Second Continuation. Of the Compleat CATALOGUE OF Stitch'd BOOKS and Single SHEETS <hi>&amp;c.</hi> Printed ſince the Firſt Diſcovery of the <hi>POPISH PLOT,</hi> (<hi>Sept.</hi> 1678.) from the 24th. of <hi>June</hi> to <hi>Michaelmas Term,</hi> 1680.</head>
+            <div n="plot, and popery" type="subject">
+               <p>
+                  <table>
+                     <head>Folio's.</head>
+                     <row>
+                        <cell role="label">Plot, and Popery.</cell>
+                        <cell role="label">Number of Sheets.</cell>
+                     </row>
+                     <row>
+                        <cell>1. <hi>Englands</hi> Calamity fore-ſhown in <hi>Germanies</hi> miſery, being the dire conſequent of the growth of Popery Printed for <hi>Lang<g ref="char:EOLhyphen"/>ley Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>2. The Tryal of Sir <hi>Thomas Gaſcoyne</hi> Bar. for High Treaſon, Printed for <hi>T. Baſſet,</hi> and <hi>S. Heyrick.</hi>
+                        </cell>
+                        <cell>17</cell>
+                     </row>
+                     <row>
+                        <cell>3. A ſeaſonable caution to Apoſtate Proteſtants; or Mercy and Judg<g ref="char:EOLhyphen"/>ment at once made viſible, Printed for <hi>Langley Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>4. Truth known to few that the Jeſuits are downright Atheiſts, prov<g ref="char:EOLhyphen"/>ed by two Sentences of the faculty of <hi>Sorbonne</hi> ſold by <hi>Langley Curtis.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>5. The Roman wonder being truth confeſt by Papiſts, wherein the Clergy of the Church of <hi>England,</hi> in their charge of Heretical Do<g ref="char:EOLhyphen"/>ctrines upon the Jeſuits, are fully juſtified Printed for <hi>W. Kettilby.</hi>
+                        </cell>
+                        <cell>15</cell>
+                     </row>
+                     <row>
+                        <cell>6. A narrative of the late Popiſh Plot in <hi>Ireland,</hi> for the ſubjugating thereof to the <hi>French</hi> King, together with the Tryal of the Earl of <hi>Tyrone,</hi> by <hi>Thomas Sampſon</hi> Printed for <hi>S. Lee</hi> and <hi>D. Major.</hi>
+                        </cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>7. Malice defeated or a brief Relation of the Accuſation and Deli<g ref="char:EOLhyphen"/>verance of <hi>Elizabeth Cellier,</hi> Printed for her ſelf.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>8. The Scarlet Beaſt ſtripped Naked, or a Brief Anſwer to Mrs. <hi>Celliers</hi> Narrative Inſtituted, Malice defeated, &amp;c. Printed by <hi>D. Mallet.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>9. The Midwiſe unmask'd being a ſecond Anſwer to Mrs. <hi>Celliers</hi> ſcan<g ref="char:EOLhyphen"/>dalous Libel, Printed for <hi>T. Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>10. The Matchleſs Rogue or a Brief Account of the Life of <hi>Don Tho<g ref="char:EOLhyphen"/>maſo,</hi> Printed for <hi>Elizabeth Cellier.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>11. Mr. <hi>Dangerfield</hi>'s Anſwer to Mrs. <hi>Celliers</hi> ſcandalous Lying Pamph<g ref="char:EOLhyphen"/>let, entituled Malice defeated ſold by <hi>R. Taylor.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>12. An Abſtract of the contents of ſeveral Letters relating to the ma<g ref="char:EOLhyphen"/>nagement of Affairs with <hi>Rome,</hi> by the D. of <hi>Y.</hi> and others.</cell>
+                        <cell>2</cell>
+                     </row>
+                     <pb n="4" facs="tcp:151702:3"/>
+                     <row>
+                        <cell>13. A Letter from the Lady <hi>Creſwell</hi> to Madam <hi>Cellier,</hi> on the pub<g ref="char:EOLhyphen"/>liſhing her late Vindication, Printed for <hi>Langley Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>14. The Tryal of Mrs. <hi>Cellier</hi> at the <hi>Old Baily,</hi> Printed for <hi>Langley Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>15. The Tryal and Sentence of <hi>Elizabeth Cellier</hi> for writing, and pub<g ref="char:EOLhyphen"/>liſhing a ſcandalous Libell called Malice defeated, <hi>&amp;c.</hi> Printed for <hi>T. Collins.</hi>
+                        </cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>16. The Popes Letter to Mrs. <hi>Cellier</hi> in relation to her great ſufferings for the Catholick cauſe, Printed by <hi>D. Mallet.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>17. Mr. <hi>Prance</hi>'s Anſwer to Mrs. <hi>Celliers</hi> Libel, and other falſe Aſper<g ref="char:EOLhyphen"/>ſions caſt upon him, &amp;c. Printed for <hi>Langley Curtis.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>18. Modeſty triumphing over impudence or ſome notes upon a late Romance publiſhed by <hi>Elizabeth Cellier</hi> Midwife and Lady <hi>Er<g ref="char:EOLhyphen"/>rant,</hi> Printed for <hi>J. Wilkins.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>19. A caution to all true Engliſh Proteſtants concerning the late Po<g ref="char:EOLhyphen"/>piſh Plot, by way of conference between an old Queen <hi>Elizabeth</hi> Proteſtant, and his Country Neighbor, Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>20. Mrs. <hi>Celliers</hi> Anſwer to the Popes Letter, wherein ſhe declares her fidelity and ſaintneſs to the Catholick cauſe, Printed by <hi>D. Mallet.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>21. The caſe of <hi>Tho. Dangerfield,</hi> with ſome remarkable paſſages, that happened at the Tryals of Mrs. <hi>Cellier</hi> and the Earl of <hi>Caſtlemain,</hi> at the Kings Bench Bar at <hi>Weſtminſter,</hi> before the Lord Chief Ju<g ref="char:EOLhyphen"/>ſtice <hi>Scrogs,</hi> Printed for the Author.</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>22. Dr. <hi>Oates</hi> Narative of the Popiſh Plot vindicated, in Anſwer to a Scurrilous Libel, called a Vindication of the Engliſh Catholicks <hi>&amp;c.</hi> Printed for <hi>T. Cocker<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ll.</hi>
+                        </cell>
+                        <cell>14</cell>
+                     </row>
+                     <row>
+                        <cell>23. The Popes threatning Letter to the <hi>French</hi> King, or the preſent grand controverſy between Pope Innocent the II, and King <hi>Lewis</hi> the 14th about the Regalia, Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>24. The Popiſh damnable Plot againſt our Religion, and Liberties diſ<g ref="char:EOLhyphen"/>covered in the Breviats of Threeſcore &amp; four Letters, &amp; Papers for Intelligence paſt betwixt the Pope, Duke of <hi>York</hi> Cardinal <hi>Norfolk,</hi> of Cardinal <hi>Cibo,</hi> Cardinal <hi>Barbarino,</hi> Nuntio and internuntio for the Pope in <hi>France</hi> and <hi>Flanders,</hi> and the Lord <hi>Arundel</hi> Mr. <hi>Cole<g ref="char:EOLhyphen"/>man &amp;c.</hi> as they were drawn up by the ſecret Committee of the Houſe of C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mmons; for the ſatisfaction of the Houſe of Lords, in the Bill againſt the Duke of <hi>York,</hi> Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>9</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="5" facs="tcp:151702:3"/>
+               <p>
+                  <table>
+                     <head>Quarto's.</head>
+                     <row>
+                        <cell role="label">Plot, and Popery.</cell>
+                        <cell role="label">Number of sheets.</cell>
+                     </row>
+                     <row>
+                        <cell>1. <hi>L'Eſtranges</hi> Narrative of the Plot ſet forth for the edification of his Majeſties Liege-People, Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>2. The Church Papiſt (ſo called) his Religion and Tenets fully diſ<g ref="char:EOLhyphen"/>covered, in a diſpute between a reputed Papiſt, and an open profeſſed Romaniſt, Printed for <hi>R. Harford.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>3. The great Idol of the Maſs overthrown in 24 Arguments, wherein the Doctrine of tranſubſtantiation is fully refuſed. Print. for <hi>E. Proſer.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>4. Foxes and Fire-brands or a ſpecimen of the danger, and harmony of Popery and Separation. Printed for <hi>B. Took.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>5. The riſe and fall or degeneracy of the Roman Church.</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>6. The Memories of <hi>James Wadwort</hi> a Jeſuit that recanted, <hi>&amp;c.</hi> Print-for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>7. A Vindication of the Engliſh Catholicks from the pretended con<g ref="char:EOLhyphen"/>ſpiracy againſt the Life and Government of his Majeſty, Printed at <hi>Antwerp.</hi> 1680.</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>8. The Popes third brief threatning to Excommunicate the moſt Chriſtian King, Printed for <hi>J. Vade.</hi> 
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>9. The grand Inqueſt or a full and perfect Anſwer to ſeveral Reaſons, by which it is pretended his Royal Highneſs the Duke of <hi>York,</hi> may be proved to be a Roman-Catholick, Printed for <hi>J. Vade.</hi>
+                        </cell>
+                        <cell>3¾</cell>
+                     </row>
+                     <row>
+                        <cell>10. The Zealous and Impartial Proteſtant ſhewing ſome great, but leſs heeded dangers of Popery, Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>8¼</cell>
+                     </row>
+                     <row>
+                        <cell>11. An Account of a Vindication of the Engliſh Catholicks, from the pretended conſpiracy againſt the Life and Government of the King, Printed for <hi>J. Vade.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>12. The Caſe of Proteſtants in <hi>England</hi> under a Popiſh Prince, if any ſhall happen to wear the Imperial Crown, Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="miscellanies" type="subject">
+               <pb n="6" facs="tcp:151702:4"/>
+               <head>MISCELLANIES.</head>
+               <p>
+                  <table>
+                     <head>Folio's.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Miſcel.</hi>
+                        </cell>
+                        <cell role="label">Number of Sheets.</cell>
+                     </row>
+                     <row>
+                        <cell>1 A Brief Method of the Law being an exact Alphabetical diſpo<g ref="char:EOLhyphen"/>ſition, of all the heads neceſſary for a perfect common place, Printed for <hi>John Kidgel.</hi>
+                        </cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>2 An exact Journal of the Siege of <hi>Tangier,</hi> from the firſt ſitting down of the <hi>Moors,</hi> before it on <hi>March</hi> 25 1680. to <hi>May</hi> 19 following, Printed for <hi>Joſeph Hindmach.</hi>
+                        </cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>3 A Narative of the Confeſſion and Execution of <hi>Thomas Pardue</hi> at <hi>Tyburn. June</hi> the 25th. 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>4 An Account of the proceedings at the Common-Hall <hi>London, June</hi> the 24th 1680. Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>Abſalon</hi>'s Conſpiracy, or the Tragedy of Treaſon.</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>6 A Catalogue of the Names of all his Majeſties Juſtices of the Peace in Commiſſion, throughout <hi>England</hi> and <hi>Wales,</hi> according to the late alterations, Printed for <hi>W. Davies.</hi>
+                        </cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>7 Mr. <hi>Chillingworth</hi>'s Judgment of the Religion of Proteſtants of Scripture the only rule &amp;c. Printed for <hi>Francis Smith.</hi>
+                        </cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>8 Narative of the proceedings at the Seſſions Houſe in the <hi>Old-Baily.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>9 A Letter to the Earl of <hi>Shaftsbury</hi> from <hi>Tom Tell truth.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>10 A Relation of the extraordinary Thunder and Lightning which lately happened in the North of <hi>Ireland.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>11 An exact Coppy of the petition of the Proteſtants in <hi>France,</hi> to their Sovereign <hi>Lewis</hi> 14th. ſold by <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>12 A Narative of the Confeſſion and Execution of the Eight Priſon<g ref="char:EOLhyphen"/>ers at <hi>Tyburn, July</hi> the 14th 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>13 A Letter written to the <hi>French</hi> King, by the Arch-biſhops and Bi<g ref="char:EOLhyphen"/>ſhops about the laſt brief of the <hi>Pope,</hi> upon the ſubject of the Re<g ref="char:EOLhyphen"/>gale, Printed for <hi>R. Bently.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>14 A Letter to the Duke of <hi>Monmouth.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>15 A Letter from the King of <hi>Morocco,</hi> to his Majeſty the King of <hi>Eng<g ref="char:EOLhyphen"/>land
+<pb n="7" facs="tcp:151702:4"/>Charles</hi> the 1ſt for the redeeming of ſally Argiers <hi>&amp;c.</hi> Printed for <hi>Rowland Reynolds.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>16 A true Liſt of Names of theſe perſons appointed by the Rump ment, to ſit as a Council of State, Reprinted.</cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>17 A Seaſonable Addreſs to the L. Mayor and Court of Aldermen and Commoners of the City of <hi>London,</hi> upon their preſent Electing of Sheriffs, <hi>July</hi> the 17th 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>18 The Tryal and Condemnation of <hi>John Giles,</hi> that notorious Ruffi<g ref="char:EOLhyphen"/>an, for wounding <hi>John Arnold</hi> 
+                           <abbr>Eſq</abbr> Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>19 The Names of the Field Officers Captains, Lieutenants <hi>&amp;c.</hi> of the Militia of the City of <hi>London</hi> 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>20 The Proteſtant Antidote or an anſwer to a Pamphlet, entituled a ſeaſonable Addreſs to the Honorable the Lord Major, touching the Election of Sheriffs, Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>21 A Letter from <hi>Jack</hi> the Cobler to any Body, ſold by <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>22 Narative of the proceedings at Surrey Aſſizes at <hi>Kingſtone,</hi> upon Thames from <hi>July</hi> the 19 to the 22th. 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>23 The Bill of Indictment againſt <hi>John Gyles;</hi> for his barbarous at<g ref="char:EOLhyphen"/>tempt upon the Body of Juſtice <hi>Arnold,</hi> Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>24 The Character of a Town-Gallant, ſold by <hi>W. Whitwood.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>25 The Character of a Town-Miſs, ſold by <hi>W. Whitwood.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>26 News from <hi>Guild-Hall,</hi> or an anſwer to the addreſs anſwered,</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>27 Relation of a great and Bloody Fight between the <hi>Engliſh</hi> and the <hi>Moors</hi> before <hi>Tangier,</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>28 The proceedings of <hi>Guild-Hall</hi> for declaring the Sheriffs.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>29 An Account of the defeat of the Rebells in <hi>Scotland,</hi> by the Kings Forces at <hi>Crawford John.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>30 Bloody News from <hi>Southwark</hi> of a horrid Murther, committed on the Body of <hi>Walter Oſily</hi> by his own Wife. <hi>Aug.</hi> the 2d. 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>31 A true Copy of a Treaſonable Paper called the Fanaticks new Covenant, taken from Mr. <hi>Donald Cargill,</hi> at <hi>Queens Ferry,</hi> Printed for <hi>A. Forreſter.</hi>
+                        </cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>32 <hi>Goodman</hi> Country to his Worſhip the City of <hi>London.</hi> P. for <hi>W. K.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>33 Brief Compendium of the Birth and exploits of <hi>Thomas</hi> Earl of <hi>Oſſery.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>34 The Cities juſt Vindication or a Scourge for a Vagabond Libel, entituled <hi>Goodman</hi> Country to his Worſhip the City.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>35 Tell-truths Anſwer to Tell-truth's Letter to the right Honorable the Earl of <hi>Shaftsbury</hi> in Vindication of his Lordſhip, Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>36 The proceedings of the grand Jury of <hi>Briſtol</hi> againſt Mr. <hi>Edward Flower,</hi> for ſpeaking ſcandalous and ſeditious words.</cell>
+                        <cell>½</cell>
+                     </row>
+                     <pb n="8" facs="tcp:151702:5"/>
+                     <row>
+                        <cell>37 An Act of Common Council of the City of <hi>London,</hi> for retrenching the expences of the Lord Major and Sheriffs, <hi>&amp;c.</hi> with Reaſons for putting the ſame in preſent Execution, Printed for <hi>F. Smith.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>38 A Letter to Dr. <hi>Brurnett</hi> from the Earl of <hi>Rocheſter</hi> on his Death Bed, Printed for <hi>R. Bentley.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>39 A full relation of Two old Men aged above a Thouſand years com<g ref="char:EOLhyphen"/>ing inviſibly into the City of <hi>Tholouze</hi> in <hi>France</hi> from <hi>Damaſcus</hi> in <hi>Galilee,</hi> Printed for <hi>N. Thompſon.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>40 Addreſs of the Common-Hall, for the fitting of the Parliament.</cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>41 A Letter to Dr. <hi>Buract</hi> from the Lord <hi>Rocheſter</hi> on his Death Bed, Printed for <hi>R. Bentley.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>42 The Method of turning the <hi>Militin</hi> of <hi>Scotland,</hi> into a ſtanding Ar<g ref="char:EOLhyphen"/>my, Printed for <hi>J. Gay,</hi> and <hi>W. Engliſh.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>43 The Imperfection of moſt Governments, taken out of the Epitomy of the <hi>Roman</hi> Hiſtory, Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>44 A Relation of the two pretended Apoſtles that came inviſibly, into the great City of <hi>Tholouze</hi> in <hi>France</hi> from <hi>Damaſcus</hi> in <hi>Galilee,</hi> aged above a Thouſand years, Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>45 A Whip for the <hi>Tholouze</hi> Lyer, in Anſwer to the Relation of the two old Men, Printed for <hi>D. Mallet.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>46 Great and Bloody News from <hi>Turnham Green,</hi> or a Relation be<g ref="char:EOLhyphen"/>tween the Earl of <hi>Pembrook</hi> and his Company, with the Conſtable and Watch, belonging to the Pariſh of <hi>C<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                                 <desc>…</desc>
+                              </gap>ſwick,</hi> P. for <hi>D. Mallet.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>47 An Account of the misfortune that lately happened to the Earl of <hi>Pembrook,</hi> Printed for <hi>Sam. Miller.</hi> Number of Sheets.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>48 An Account of the Sickneſs Death and Burial of Captain <hi>Willam Bedlow,</hi> Printed for <hi>Rand. Taylor.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>49 Great News from <hi>Saxony,</hi> or a Relation of the mighty Gianr <hi>Koorb<g ref="char:EOLhyphen"/>mep</hi> of his devouring Men <hi>&amp;c.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>50 An Account of the behavior of the Condemned Priſoners in <hi>New<g ref="char:EOLhyphen"/>gate. Sept.</hi> 6th 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>51 The Biſhop of <hi>London</hi>'s ſecond Letter to the Clergy of his Dioceſs, Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>52 <hi>Will</hi> with a Whiſp to <hi>Robbin</hi> Good-fellow, Printed for <hi>T. Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>53 A Letter from the Duke of <hi>Brandenburg</hi> to ſeveral Miniſters of State, ſhewing his reſolution to defend the Proteſtant Religion, P. <hi>T. Davies.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>54 A Relation of a dreadful ſtorm accompanied with Thunders and Hailſtones, ſome of them being above two pound weight about the City of <hi>Millain,</hi> Printed for <hi>T. Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>55 An Account of the Tryals at the <hi>Old Baily,</hi> began the 10th of <hi>Sept.</hi> 1680. Printed for <hi>T. Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>56 The two Noble Converts, or the Earl of <hi>Marlborough</hi> and the Earl of <hi>Rocheſter,</hi> their dying requeſts to the Atheiſts and debauche'es of this Age, Printed for <hi>Rand. Taylor.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>57 Remarks on ſome eminent paſſages in the life of Collonel <hi>Blood,</hi> in a Letter to a Perſon of Quality, written upon the occaſion of the late
+<pb n="9" facs="tcp:151702:5"/>Tryal, Relating to his Grace the Duke of <hi>Buckingham,</hi> Print<g ref="char:EOLhyphen"/>ed for <hi>John Norris.</hi>
+                        </cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>58 An Account of the New Sheriffs holding their Office, Printed for <hi>Tho. Snowden.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>59 The Speech of Sir <hi>Patient Ward</hi> the 29th of <hi>September</hi> 1680. being the day he was Elected Lord Major of <hi>London,</hi> Printed for <hi>Tho. Collins,</hi> and <hi>Brab. Milmer.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>60 A Relation of two remarkable Tryals, at the Seſſions of the Peace for the liberty of <hi>Weſtminſter,</hi> on the third of <hi>October</hi> 1680. the one for ſcandalous words by one <hi>Skippon,</hi> the other of a Prieſt in the <hi>Gate-houſe,</hi> for ſpoyling of a Girl of nine Years old, Print<g ref="char:EOLhyphen"/>ed for <hi>W. H.</hi> and <hi>T. F.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>61 The naked truth, (the ſecond part) concerning the Cannons, and Eccleſiaſtical Juriſdiction Canonical Obedience <hi>&amp;c.</hi> Printed for <hi>F. Smith.</hi>
+                        </cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>62 A Petition of the City of <hi>London</hi> to the Lord Major, againſt Sir <hi>George Geoffrys</hi> the preſent Recorder.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>63 A Serious Vindication of the Church of <hi>England,</hi> ſhewing the Na<g ref="char:EOLhyphen"/>tions happineſs under the preſent Government, being an Anſwer to a late Pamphlet entituled the Naked truth.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>64 A Narrative of the proceedings at the Seſſions for <hi>London</hi> and <hi>Middleſex,</hi> Printed for <hi>T. Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>65 The dying Speeches and Confeſſions of the Priſoners Executed the 22 of <hi>October,</hi> Printed for <hi>Tho. Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>66 A Petition of the Bookſellers in <hi>Weſtminſter-hall,</hi> to the Honora<g ref="char:EOLhyphen"/>ble Houſe of Commons, to Print their Votes.</cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>67 Another Letter from <hi>Legorn</hi> to an Eminent Merchant in <hi>London,</hi> Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>68 An Anſwer to another Letter from <hi>Legorn,</hi> to an eminent Mer<g ref="char:EOLhyphen"/>chant in <hi>London,</hi> Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>69 The Confeſſion of <hi>John Nicholſon,</hi> who committed that Barbarous Murther on the Body of <hi>John Dimbleby</hi> ſervant to Mr. <hi>Marriot,</hi> Printed for <hi>Rich. Janeway.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>71 The Proteſtants joy, or the Relation of the Duke of <hi>Monmouth</hi>'s reception in the City of <hi>London</hi> on the 29th of <hi>October,</hi> Printed by <hi>D. Mallet.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>72 An Account of the State of his Majeſties Revenue, as it was left by the Earl of <hi>Danby</hi> at Lady Day 1679. (in a Letter to a Friend) occaſion'd by his Lordſhips Anſwer to an examination of the State of the caſe of the Earl of <hi>Danby,</hi> by the Honorable Sir <hi>Robert Howard,</hi> Printed for <hi>T. Fox.</hi>
+                        </cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>73 A Narrative of the Duke of <hi>Monmouths</hi> late Journey into the Weſt, in a Letter from an Eye-witneſs thereof, Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>74 The Votes of the Houſe of Commons, (Printed by their Order) from the firſt day of their ſitting the 21 of <hi>October</hi> (1680) and
+<pb n="10" facs="tcp:151702:6"/>uſually comes out every Morning in half a Sheet of Paper, Print<g ref="char:EOLhyphen"/>ed for <hi>T. Newcomb, &amp;c.</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Quarto</hi>'s</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Miſcel</hi>
+                        </cell>
+                        <cell role="label">Number of Sheets.</cell>
+                     </row>
+                     <row>
+                        <cell>1 LOve and truth in two modeſt and peaceable Letters concern<g ref="char:EOLhyphen"/>ing the diſtempers of the preſent times, Printed for <hi>H. Brome</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>2 The Intereſt of the three Kingdoms, with reſpect to the buſineſs of the Black Box in a Letter to a Friend, Printed for <hi>J. Vade.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>3 Treaſon and Popery <hi>&amp;c.</hi> brought to a publick teſt with regard to the grounds of his Majeſties late Declaration, concerning Succeſſion of the Crown; The ſame with the true Proteſtant Sudject of the Nature, and rights of Sovereignty diſcuſs'd and ſtated in <hi>Anno</hi> 1679. Reprinted.</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>4 The Religion of the <hi>Dutch,</hi> repreſented in ſeveral Letters, from a Proteſtant Officer in the <hi>French</hi> Army, to a Paſtor and Profeſſor of Divinity, at <hi>Berne</hi> in <hi>Swiſſerland,</hi> Printed for <hi>S. Heyrick.</hi>
+                        </cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>5 <hi>Richard Baxters</hi> Anſwer to Dr. <hi>Stallingfleet</hi>'s charge of Separation, in his late Sermon before the Lord Major, Printed for <hi>N Simmons.</hi>
+                        </cell>
+                        <cell>12½</cell>
+                     </row>
+                     <row>
+                        <cell>6 Advice to a Soldier in two Letters, written to an Officer in the late Engliſh Army, Printed for <hi>J Gay.</hi>
+                        </cell>
+                        <cell>2½</cell>
+                     </row>
+                     <row>
+                        <cell>7 A ſhort reply to Mr. <hi>L'Estranges</hi> ſhort Anſwer, to a litter of Libels in a Letter to a Friend.</cell>
+                        <cell>1½</cell>
+                     </row>
+                     <row>
+                        <cell>8 A perſuaſive to Reformation, and union as the beſt ſecurity againſt the deſigns of our Popiſh Enemies, Printed for <hi>W. Kett<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lby.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>9 Short Animadverſions upon a Sermon lately Preached by Dr. <hi>Til<g ref="char:EOLhyphen"/>loſſon,</hi> upon <hi>Joſhua</hi> 24.15. ſold by <hi>B. Alſop.</hi>
+                        </cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>10 The charge of Schi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m renewed againſt the Separatiſts, in Anſwer to the renewer of that pretended peaceable deſign, which is falſe<g ref="char:EOLhyphen"/>ly call'd an Anſwer to Dr. <hi>Stillingfleet</hi>'s late Sermon, Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>11 <hi>Aarons</hi> Rod Bloſſoming the Orthodox Government of the Church of <hi>England,</hi> by Biſhops <hi>&amp;c.</hi> aſſerted from the practice of the A<g ref="char:EOLhyphen"/>poſtles <hi>&amp;c.</hi> Printed for <hi>R. Butler.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>12 A ſtrange Apparition of ſeveral Spirits and Viſions, at <hi>Cow Croſs</hi> in St. <hi>Sepulchres</hi> pariſh <hi>London,</hi> Printed for <hi>J. Clark.</hi> 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>13 A Letter out of the Country to a Perſon of Quality in the City, who took offence at a late Sermon of Dr. <hi>Stillingſleets.</hi> ſold by <hi>S. Tidmarſh.</hi>
+                        </cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>4 The Miſchief of Impoſitions, or an Antidote againſt a late Diſ<g ref="char:EOLhyphen"/>courſe
+<pb n="11" facs="tcp:151702:6"/>courſe Preached at <hi>Guild-hall</hi> Chappel, <hi>May</hi> 2d, Printed for <hi>B. Alſop.</hi>
+                        </cell>
+                        <cell>16</cell>
+                     </row>
+                     <row>
+                        <cell>15 The Rector of <hi>Sutton</hi> committed with the Dean of St. <hi>Pauls,</hi> or a defence of Dr. <hi>Stillingfleets Irenicum</hi> and other writings; againſt his late Sermon, ſold by <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>11½</cell>
+                     </row>
+                     <row>
+                        <cell>16 <hi>Magnalia natura</hi> or the Philoſophers Stone, lately expos'd by <hi>John Joachim Becher,</hi> ſold by <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>17 Strange news from <hi>Eaſt-Barnet,</hi> or a true Relation of a Murther committed by a Woman on her ſelf and two Children, Printed for <hi>J. Clarke.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>18 A Relation of two conferences between Father <hi>L'cheeſe</hi> and four conſiderable Jeſuits.</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>19 <hi>Speculum Baxterianum,</hi> or <hi>Baxter</hi> againſt <hi>Baxter,</hi> being ſober re<g ref="char:EOLhyphen"/>flexions upon a Treatiſe of Mr. <hi>Richard Baxters</hi> ſtiled ſacrilegious deſertion of the holy Miniſtry rebuked and tolerated Preaching of the Goſpel Vindicated, Printed for <hi>R. Chiſwell.</hi>
+                        </cell>
+                        <cell>10½</cell>
+                     </row>
+                     <row>
+                        <cell>20 <hi>Oratio Aniverſaria habita in Theatro Inclyti Collegii medicorum Lon<g ref="char:EOLhyphen"/>dinenſium</hi> 55th <hi>Augusti</hi> 1680 <hi>à Gualtero Charletono. M.D. Sumpti<g ref="char:EOLhyphen"/>tibus</hi> J. Baker.</cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>21 The Caſuiſt uncas'd in a Dialogue betwixt <hi>Richard</hi> and <hi>Baxter,</hi> with a moderator between them by <hi>Roger L'eſtrange,</hi> Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>22 The <hi>Moors</hi> Baffled being a diſcourſe concerning <hi>Tangeer,</hi> eſpecial<g ref="char:EOLhyphen"/>ly when it was under the Earl of <hi>Teviot,</hi> by which you may find what Methods and Government is fitteſt to ſerve that place, P. for <hi>W. Crook.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>23 <hi>L'Eſtrange</hi> caſe in a Civil Dialogue betwixt <hi>Ezekiel</hi> and <hi>Ephraim,</hi> Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>24 A Juſt and Modeſt Vindication of his Royal Highneſs the Duke of <hi>York,</hi> Printed for <hi>Tho. Benskin.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>25 A Letter to <hi>Monſieur Van B-de M-at Amſterdam</hi> written 1676. Printed 19. <hi>Octob.</hi> 1680.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>26 Liberty of Conſcience in its Order to Univerſal peace Impartially ſtated, <hi>&amp;c.</hi> Printed for <hi>T. Parkhurſt.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>27 <hi>L'eſtranges</hi> Appeal humbly ſubmitted to the King and the three Eſtates Aſſembl'd in Parliament, Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>28 The Converſion and Perſecutions of <hi>Eve Cohan</hi> now called <hi>Eliz. Verboon,</hi> a perſon of Quality of the Jewiſh Religion, who was Baptized the 10th of <hi>October</hi> 1680. at St. <hi>Martins</hi> in the <hi>Fields,</hi> by the Biſhop of St. <hi>Aſaph,</hi> Printed for <hi>R. Chiſwell</hi>
+                        </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>29 An Appeal of all the Non-conformiſts in <hi>England</hi> to God, and all the Proteſtants in <hi>Europe</hi> in order to Manifeſt their ſincerity in point of Obedience to God and the King, Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>30 The Grand-jury Mans Oath and Office explained, and the rights of <hi>Engliſh</hi> Men Aſſerted in a Dialogue between a Barriſter at Law and a grand Jury-man, Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>3</cell>
+                     </row>
+                     <pb n="12" facs="tcp:151702:7"/>
+                     <row>
+                        <cell>31 <hi>Londons</hi> Glory or the Lord Mayors ſhew, Printed for <hi>H. Play<g ref="char:EOLhyphen"/>ford.</hi>
+                        </cell>
+                        <cell>2½</cell>
+                     </row>
+                     <row>
+                        <cell>32 The caſe of the People called Quakers ſtated in relation to their late and preſent ſufferings.</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>33 A prefatory diſcourſe to a late Pamphlet, entituled a <hi>Memento</hi> for <hi>England</hi> Proteſtants <hi>&amp;c.</hi> or an Anſwer to that part of the <hi>Com<g ref="char:EOLhyphen"/>pendium,</hi> which Reflects upon the Biſhop nf <hi>Lincolns</hi> Book, <hi>P.</hi> by <hi>T. Dawks.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>34 The Caſe of Proteſtant Diffenters of late proſecuted on old Sta<g ref="char:EOLhyphen"/>tutes made againſt Papiſts, Printed 4. <hi>Nov.</hi> 1680.</cell>
+                        <cell>1</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>Octavo's.</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Miſcel.</hi>
+                        </cell>
+                        <cell role="label">Number of Sheets.</cell>
+                     </row>
+                     <row>
+                        <cell>1 TRuth made manifeſt or the dead Man's Teſtimony to the living, being a <hi>Compendium</hi> of the laſt ſayings of Captain <hi>William Bedlow,</hi> with a Sermon Preached at his Funeral by Mr. <hi>T. Palmer,</hi> Printed for <hi>P. Rooksby.</hi>
+                        </cell>
+                        <cell>1½</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="poetry" type="subject">
+               <pb n="13" facs="tcp:151702:7"/>
+               <head>POETRY</head>
+               <p>
+                  <table>
+                     <head>Folio<hi>'s.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>Poetry.</hi>
+                        </cell>
+                        <cell role="label">Number of Sheets.</cell>
+                     </row>
+                     <row>
+                        <cell>1 THe Saints Jubilee, or the fullneſs of Joy to the ſweet Singers of <hi>Sion,</hi> ſold by <hi>J. Blith.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>2 The Claret drinkers ſong or the good Fellows deſign, Printed for <hi>R. Harford.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>3 Elegy on the Death of the Earl of <hi>Oſſory.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>10 Elegy on the Death of the Earl of <hi>Rochester,</hi> Printed for <hi>Langley Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>11 A Poem on the Death of Mr. <hi>Stephen Charnock,</hi> Printed by <hi>Tho. Snowden.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>12 <hi>Jockies</hi> downfal, a Poem on the late total defeat, given to the <hi>Scotiſh</hi> Covenanters near <hi>Hamilton Park</hi> 22th. of <hi>June</hi> 1679. by His Majeſties Forces.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>13 An Elegy on the Death of Captain <hi>Bedlow,</hi> Printed for <hi>J. Gay.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>14 A Poem on the Arrival of the Prince palatine of the Rhine, Nephew to Prince <hi>Rupert,</hi> Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>15 An Elegy on the truly worthy and ever to be remembred Captain <hi>William Bedlow, Englands</hi> deliverer <hi>&amp;c.</hi> with an account of his pious end, Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>16 Funeral Tears on the Death of Captain <hi>William Bedlow,</hi> Printed for <hi>James Vade.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>17 An Elegy on Colonel <hi>Blood,</hi> who dyed the 26th of <hi>Aug.</hi> 1680. <hi>P.</hi> by <hi>J. S.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>18 The Dutches of Mazarines farewel to <hi>England;</hi> Printed for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>19 A Song upon <hi>Titus.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>20 A Character of a true Chriſtian, ſold by <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>21 To the praiſe of Mrs. <hi>Cellier</hi> the Popiſh Midwife, on her incompa<g ref="char:EOLhyphen"/>table Book, Printed for <hi>Walter Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>22 The Epitaph of Captain <hi>William Bedlow.</hi>
+                        </cell>
+                        <cell>½</cell>
+                     </row>
+                     <row>
+                        <cell>23 A Poem on the Earl of <hi>Oſſory,</hi> who dyed <hi>July</hi> the 30th. 1680. <hi>P.</hi> for <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>24 The ſecond part of the Loyal Subjects Letany, Printed for <hi>B. Took.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <pb n="14" facs="tcp:151702:8"/>
+                     <row>
+                        <cell>25 A Satyr on Madam <hi>Celliers</hi> ſtanding on the Pillory, Printed for <hi>T. Davies.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>26 The progreſs of honeſty or a view of a Court and City, Printed for <hi>J. Hindmarſh.</hi>
+                        </cell>
+                        <cell>6½</cell>
+                     </row>
+                     <row>
+                        <cell>27 A Commentation on the late Wonderful diſcovery of the new Po<g ref="char:EOLhyphen"/>piſh Plot being the Jeſuits device to inveagle the Son to betray the Father, Printed for <hi>T. Adams.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>28 A Poem on the Hiſtory of Queen <hi>Heſter,</hi> and an Elegy on the Death of the Lord Chief Juſtice <hi>Hales</hi> and other occaſional Po<g ref="char:EOLhyphen"/>ems, Printed for <hi>W. Leech.</hi>
+                        </cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>29 An Heroick Poem on the Right Honorable <hi>Tho.</hi> Earl of <hi>Oſſory,</hi> P. for <hi>W. Cademan.</hi>
+                        </cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>30 A Congratulatory Poem on the meeting of the Parliament.</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>31 A Panegyrick, to his Royal Highneſs upon His Majeſties late De<g ref="char:EOLhyphen"/>claration, Printed for the Author, ſold by <hi>J. G.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>32 A Congratulatory Poem on the Right Honorable Sir <hi>Patient Ward,</hi> Lord Major of the City of <hi>London,</hi> Printed for <hi>R. Janeway.</hi>
+                        </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>33 A pindarique Ode on the Death of the right Honorable <hi>Tho.</hi> Earl of <hi>Oſsery</hi> by <hi>Tho. Flatman</hi> 
+                           <abbr>Eſq</abbr> Printed for <hi>B. Took.</hi>
+                        </cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="sermons" type="subject">
+               <head>SERMONS</head>
+               <p>
+                  <table>
+                     <head>Quarto<hi>'s.</hi>
+                     </head>
+                     <row>
+                        <cell role="label">
+                           <hi>Serm.</hi>
+                        </cell>
+                        <cell role="label">Number of Sheets.</cell>
+                     </row>
+                     <row>
+                        <cell>1 THe Improvement of Navigation a great cauſe of the encreaſe of knowledge in a Sermon <hi>June</hi> 7. 1680. by Mr. <hi>Richard Hol<g ref="char:EOLhyphen"/>den,</hi> Printed for <hi>J. Martin.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>2 The duty and happineſs of doing good, in two Sermons, the firſt at the <hi>Yorkſhire</hi> Feaſt in <hi>Bow</hi> Church <hi>Feb.</hi> 17. 1679. the other be<g ref="char:EOLhyphen"/>fore the Lord Major <hi>&amp;c.</hi> at the Spittle <hi>April</hi> 14. 1680. by Dr. <hi>John Sharp,</hi> Printed for <hi>W. Kettilby.</hi>
+                        </cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>3 The Plotters Doom, in a late Sermon upon the Helliſh Plots, which have been diſcovered in theſe Nations, and may be an Anſwer to Mr. <hi>Hs.</hi> late Sermon upon <hi>Curſe ye Meroz,</hi> Printed for <hi>B. Alſop.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>4 A Sermon Preached before the Lord Major and Court of Alder<g ref="char:EOLhyphen"/>men, <hi>June</hi> 27. 1680. by Mr. <hi>Charles Hickman,</hi> Printed for <hi>H. Brome.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>5 A Sermon Preached before the King at <hi>Windſor, June</hi> 13. 1680. by Mr. <hi>John Lambe,</hi> Printed for <hi>W. Kettilby.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <pb n="15" facs="tcp:151702:8"/>
+                     <row>
+                        <cell>6 A Sermon Preached on the fourth Sunday in Lent, in the Cathe<g ref="char:EOLhyphen"/>dral Church of <hi>Norwich,</hi> by Dr. <hi>William Smith,</hi> Printed for <hi>W. Kettilby.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>7 A Sermon againſt Murmuring, Preached in the Cathedral Church of St. <hi>Peter Exon</hi> on the 29th day of <hi>May</hi> 1680. by <hi>T. Long, P.</hi> for <hi>R. Royſton.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>8 Divine Providence the ſupport of good Men, under all events in a Sermon Preached before the Lord Major at <hi>Guild-hall</hi> Chappel, <hi>June</hi> 20. 1680. by <hi>W. Shelton,</hi> Printed for <hi>N. Ranew</hi> and <hi>J. Ro<g ref="char:EOLhyphen"/>binſon.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>9 A Sermon at the meeting of the Natives of the County of <hi>Worceſter Bow-Church;</hi> by Dr. <hi>Littleton,</hi> fold by <hi>J. Crump.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>10 A Sermon Preached by Mr. <hi>Charnock,</hi> on 2 <hi>Cor.</hi> verſe 19, ſold by <hi>L. Curtis.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>11 The Chriſtians prize and race, or a diſcourſe of the good things promiſed to us in Chriſt, being a Sermon Preached by Mr. <hi>Za<g ref="char:EOLhyphen"/>chary Cawdrey,</hi> Printed for <hi>J. Leigh.</hi>
+                        </cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>12 Spirit of <hi>Enthuſiaſm</hi> exerciſed in a Sermon, Preached before the Univerſity of <hi>Oxford,</hi> on Act Sunday by <hi>D. G. Hicks,</hi> Printed for <hi>W. Kettilby.</hi>
+                        </cell>
+                        <cell>6½</cell>
+                     </row>
+                     <row>
+                        <cell>13 A Sermon Preached before the Lord Major and Aldermen of the City of <hi>London</hi> at <hi>Bow-Church, Sept.</hi> 2. 1680. by <hi>G. Burnet,</hi> D. D. Printed for <hi>R. Chiſwel.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>14 A Sermon Preached at the Funeral of the Earl of <hi>Rochester;</hi> by Mr. <hi>R. Parſons,</hi> Printed for <hi>R. Davis</hi> and <hi>T. Bowman.</hi>
+                        </cell>
+                        <cell>6½</cell>
+                     </row>
+                     <row>
+                        <cell>15 The Shining forth of the Righteous being a Sermon Preached on the Death of Mr. <hi>Stephen Charnock,</hi> by Mr. <hi>J. Johnſon,</hi> Printed for <hi>T. Parkhurſt, W. Miller.</hi> and <hi>B. Alſop.</hi>
+                        </cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>16 A Sermon Preached before the Artillery Company of <hi>London,</hi> at St. <hi>Mary le Bow, Sept.</hi> 15. 1680. by Mr. <hi>J. Scot,</hi> Printed for <hi>J. Ba<g ref="char:EOLhyphen"/>ker,</hi> and <hi>W. Kettilby.</hi>
+                        </cell>
+                        <cell>4½</cell>
+                     </row>
+                     <row>
+                        <cell>17 A Sermon Preach'd before the Lord Major in <hi>Bow-Church,</hi> on the Feaſt of St. <hi>Michael,</hi> at the Election of the Lord Major by Dr. <hi>Sharp,</hi> Printed for <hi>W. Kettleby.</hi> 
+                        </cell>
+                        <cell>5½</cell>
+                     </row>
+                     <row>
+                        <cell>18 A Sermon Preached before the Lord Major at <hi>Guild-hall,</hi> 19. <hi>Sept.</hi> 1680. by Mr. <hi>Robert Hancock,</hi> Printed for <hi>Tho. Fletcher,</hi> and <hi>W. Leech.</hi>
+                        </cell>
+                        <cell>5</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="weekly news" type="subject">
+               <pb n="16" facs="tcp:151702:9"/>
+               <head>Weekly News.</head>
+               <div type="section">
+                  <p n="1">1 THe <hi>London Gazette,</hi> begun with number 1. the 13. <hi>Nov.</hi> 1665, and is ſtill Printed twice a Week <hi>Mondays</hi> and <hi>Thurſdays,</hi> in half a ſheet of Paper by <hi>Tho. Newcomb.</hi>
+                  </p>
+                  <p n="2">2 The <hi>City Mercury,</hi> from the Office at the <hi>Royal Exchange</hi> together with a weekly Advertiſement of Books in half a Sheet of Paper, Printed by <hi>R. Everingham.</hi>
+                  </p>
+                  <p n="3">3 Another <hi>City Mercury,</hi> to which is alſo adjoyned, a weekly Advertiſe<g ref="char:EOLhyphen"/>ment of Books, Printed by <hi>T. James</hi> in half a Sheet of Paper, they are both publiſh'd on <hi>Thurſday</hi> Morning.</p>
+               </div>
+               <div n="quarto's" type="section">
+                  <head>WEEKLY NEWS.</head>
+                  <head type="sub">
+                     <hi>Quarto's</hi>
+                  </head>
+                  <p n="1">1 THe Weekly Bill of <hi>Mortality</hi> in a Quarter of a Sheet of Paper, publiſhed every <hi>Thurſday</hi> Morning.</p>
+                  <p n="2">2 The Weekly Packet of Advice from <hi>Rome,</hi> left off <hi>Fryday</hi> the 25th of <hi>June</hi> 1680. and on <hi>Fryday</hi> the 9th of <hi>July</hi> it came out again with a new title <hi>(viz.)</hi> the Anti <hi>Roman</hi> Packet or Memories of Popes and Popery, and ſo continues and comes out every <hi>Fryday</hi> in one Sheet Printed for <hi>Langley Curtis.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="proclamations" type="subject">
+               <head>PROCLAMATIONS</head>
+               <head type="sub">
+                  <hi>Folio's.</hi>
+               </head>
+               <p n="1">1 A Proclamation in <hi>Scotland,</hi> declaring <hi>Richard Cameron</hi> and o<g ref="char:EOLhyphen"/>ther Rebels and Traytors, <hi>&amp;c.</hi> Reprinted at <hi>London</hi> for <hi>Andrew Forrester. July</hi> the 15th 1680. 1</p>
+               <p n="2">2 A Proclamation declaring the Parliament ſhall ſit the one and twen<g ref="char:EOLhyphen"/>tieth day of <hi>October.</hi> came out <hi>Aug.</hi> the 30th. 1680. 1</p>
+               <p n="3">3 A Proclamation commanding all Papiſts or reputed Papiſts forth<g ref="char:EOLhyphen"/>with to depart from the Cities of <hi>London</hi> and <hi>Weſtminster,</hi> and from within Ten Miles of the ſame 4th. of <hi>Octob.</hi> 1680. 1</p>
+               <p n="4">4 A Proclamation declaring that if any Church Wardens or Over<g ref="char:EOLhyphen"/>ſeers of the Poor, can find a Convicted Papiſt within 10 Miles of <hi>London,</hi> contrary to the Proclamation of the 4th of <hi>October,</hi> they ſhall receive for the benefit of the Poor of the Pariſh where ſuch Papiſts, ſhall be ſound the Moiety of a Hundred Pounds penalty due by the Law to his Majeſty. 16. <hi>Octob.</hi> 1680. 1</p>
+               <p n="5">5 His Majeſties Gracious Speech to both Houſes of Parliament on <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urſday</hi> the 21th of <hi>October</hi> 1680. 2</p>
+               <p n="6">6 A Proclamation for Incouragement of the further diſcovery of the Popiſh Plot. came out the 30th. of <hi>Octob.</hi> 1680. 1</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
